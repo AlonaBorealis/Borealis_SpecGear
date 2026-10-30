@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: SpecGear
+## Title-ruRU: SpecGear |cff808080— комплект по спеку|r
+## Notes: Equips the chosen equipment set when you switch talent spec (/sg).
+## Notes-ruRU: При смене спека надевает выбранный комплект из менеджера экипировки (/sg).
+## SavedVariablesPerCharacter: SpecGearDB
+## Version: 1.0
+
+borealis_SpecGear.lua
